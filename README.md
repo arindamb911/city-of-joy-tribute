@@ -43,8 +43,9 @@ Built as part of my web development learning journey.
 ---
 
 ## 📸 Screenshots
+<img width="1884" height="5809" alt="kolkata-full-page png" src="https://github.com/user-attachments/assets/8e6180dd-5da4-4205-ae4f-212aeb490802" /> 
 
-<img width="400" height="5809" alt="kolkata-full-page png" src="https://github.com/user-attachments/assets/fd69699b-ed6b-4694-a30f-a0e6cfb85bfc" />
+
 
 
 
