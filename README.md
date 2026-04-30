@@ -2,6 +2,9 @@
 
 A tribute webpage dedicated to the beauty, culture, and spirit of Kolkata — the "City of Joy".
 
+<img width="1884" height="994" alt="kolkata-hero" src="https://github.com/user-attachments/assets/b544102b-303b-410f-841d-bc301d51786f" /> 
+
+
 ---
 
 ## 📌 About the Project
@@ -41,8 +44,8 @@ Built as part of my web development learning journey.
 
 ## 📸 Screenshots
 
+<img width="400" height="5809" alt="kolkata-full-page png" src="https://github.com/user-attachments/assets/fd69699b-ed6b-4694-a30f-a0e6cfb85bfc" />
 
-![Uploading kolkata-full-page.png.png…]()
 
 
 ---
