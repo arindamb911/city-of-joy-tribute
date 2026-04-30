@@ -41,10 +41,9 @@ Built as part of my web development learning journey.
 
 ## 📸 Screenshots
 
-<img width="1884" height="2462" alt="Screenshot 2026-04-30 at 18-24-55 Kolkata — City of Joy A Tribute" src="https://github.com/user-attachments/assets/b4f47723-55fc-4743-a9cc-25c30b2a010c" />
 
+![Uploading kolkata-full-page.png.png…]()
 
-Example:
 
 ---
 
