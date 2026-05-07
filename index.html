@@ -491,6 +491,13 @@
     <div class="footer-rule"></div>
     <p class="footer-tribute">A tribute to the indomitable spirit of</p>
     <div class="footer-watermark">কলকাতা</div>
+
+    <section id="music-tribute" style="text-align: center; padding: 20px;">
+    <h3>Listen to the Spirit of Kolkata</h3>
+    <audio id="bg-music" autoplay loop controls>
+    <source src="/audio/Ganga_r_Alor_Naachon.mp3" type="audio/mpeg">
+</audio>
+</section>
   </footer>
 
   <script>
@@ -513,6 +520,12 @@
   reveals.forEach(reveal => {
     observer.observe(reveal);
   });
+  window.addEventListener('click', () => {
+    const audio = document.getElementById('bg-music');
+    if (audio.paused) {
+        audio.play();
+    }
+  }, { once: true });
 </script>
 </body>
 

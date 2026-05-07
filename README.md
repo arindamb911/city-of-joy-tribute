@@ -15,6 +15,7 @@ This project is a simple yet meaningful tribute page that highlights:
 - The emotional connection people have with the city
 
 Built as part of my web development learning journey.
+Visuals background image and background score co-created with Gemini
 
 ---
 
